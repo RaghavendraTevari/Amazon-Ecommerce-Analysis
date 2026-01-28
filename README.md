@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Amazon India Sales Analysis: Festive Season Optimization
 
 ## 📌 Project Overview
